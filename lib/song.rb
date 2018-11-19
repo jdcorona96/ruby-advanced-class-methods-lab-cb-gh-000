@@ -58,7 +58,4 @@ class Song
     song.artist_name = info[1].chomp(".mp3")
     song
   end
-
-  end
-
 end
